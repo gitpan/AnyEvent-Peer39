@@ -26,4 +26,4 @@ requires:
   AnyEvent::HTTP: 0
   Data::Validator: 0
   Mouse: 0
-version: 0.3
+version: 0.31
