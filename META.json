@@ -25,6 +25,7 @@
             "Plack" : 0,
             "Plack::Handler::Twiggy" : 0,
             "Plack::Request" : "0.99",
+            "Test::More" : 0,
             "Test::Requires" : 0,
             "Test::TCP" : 0,
             "YAML::Syck" : 0
@@ -44,5 +45,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.31"
+   "version" : "0.32"
 }
